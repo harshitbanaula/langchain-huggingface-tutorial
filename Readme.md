@@ -24,8 +24,6 @@ HF_Tutorial/
 ├── requirements.txt # Dependencies
 └── README.md # This documentation
 
-yaml
-Copy code
 
 ---
 
@@ -77,5 +75,3 @@ Env Management	python-dotenv
 ✔ .env is ignored using .gitignore
 ✔ Do not upload API keys to GitHub
 
-👤 Author
-Harshit Banaula
